@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Allow tracked files
+!.gitignore
+!.gitattributes
+
+# Allow specific folder
+!pixelshooter/
+!sort\ the\ court/
